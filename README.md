@@ -2,7 +2,7 @@
 
 1. Use your own python PCA and linear regression modules to answer the following twoquestions.
 
-    * (30  points)  The  data  inlinearregressiontestdata.csv contains x,y,  and y−theoretical. Perform  PCA  on x and y. Plot y vs x, y-theoretical vs x, and the PC1 axis in the same plot.  
+    * (30  points)  The  data  in linearregressiontestdata.csv contains x,y,  and y−theoretical. Perform  PCA  on x and y. Plot y vs x, y-theoretical vs x, and the PC1 axis in the same plot.  
 
     * (30  points)  Perform  linear  regression  on x and y with x being  the  independentvariable and y being the dependent variable.  Plot the regression line in the same plotas you obtained in (1).  Compare the PC1 axis and the regression line obtained above.Are they very different or very similar?
 
